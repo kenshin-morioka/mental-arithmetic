@@ -1,4 +1,16 @@
+# mental arithmetic training app
+
+## What is this?
+
+This is an application that you can practice mental arithmetic of 2 digits multiplication and 3 digits multiplication.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## How to develop?
+
+I have put together an article on how I started making this application and development methods.
+
+link: 
 
 ## Getting Started
 

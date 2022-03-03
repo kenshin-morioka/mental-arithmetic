@@ -68,13 +68,11 @@ export default function App() {
       
       {/* 正解か不正解かの判定 */}
       {text &&
-        <>
-          { isCorrect ?
+          (isCorrect ?
             <div className="text-2xl text-red-500 mb-8">正解！！</div>
             :
             <div className="text-2xl text-blue-500 mb-8">不正解！！</div>
-          }
-        </>
+          )
       }
 
       {/* 式と解答欄 */}
