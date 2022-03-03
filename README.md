@@ -10,7 +10,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 I have put together an article on how I started making this application and development methods.
 
-link: 
+link: https://qiita.com/kenshin-morioka/items/99cea362881897c8e934
 
 ## Getting Started
 
