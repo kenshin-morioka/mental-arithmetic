@@ -1,5 +1,7 @@
 # mental arithmetic training app
 
+link： https://mental-arithmetic.mk-app.net/
+
 <img width="715" alt="サイト画像" src="https://user-images.githubusercontent.com/71878803/156635159-2cd20759-8d56-4e33-b01d-07f021eb6c72.png">
 
 ## What is this?
